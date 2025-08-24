@@ -2,7 +2,7 @@
 
 **Product Manager transitioning to ML Engineering**
 
-Currently at Airtel (IPTV) with ~10 years in Product Management. Learning to code through hands-on projects.
+~10 years in Product Management. Learning to code through hands-on projects.
 
 ### 🚧 Code Disclaimer
 Most repositories here are **learning experiments** where I:
