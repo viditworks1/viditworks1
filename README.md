@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Vidit
 
-<!--
-**viditworks1/viditworks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager transitioning to ML Engineering**
 
-Here are some ideas to get you started:
+Currently at Airtel (IPTV) with ~10 years in Product Management. Learning to code through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Code Disclaimer
+Most repositories here are **learning experiments** where I:
+- Brainstorm problems and test cases
+- Discuss approaches and tradeoffs  
+- Use AI assistance for implementation
+- Focus on understanding rather than perfect code
+
+**Use at your own risk** - these are educational projects, not production-ready libraries.
+
+### 🎯 Learning Journey
+- Building ML utilities for Indian text processing
+- Practicing Python, regex, data structures
+- Understanding software engineering best practices
+- Preparing for ML Engineering roles
+
+*Learning in public* 📚
